@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-hmmmmmmmmmmmmmmmmmmmmmm
+There are a lot of ways it could. Let me know.
 
 ## How to test
 
-honestly not sure
+Test everything twice. There are a lot of ways it could break.
 
 ## External hardware
 
