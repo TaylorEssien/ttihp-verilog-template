@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-There are a lot of ways it could. Let me know.
+There are a lot of ways it could. Let me know. There are a lot of ways it could. Let me know. There are a lot of ways it could. Let me know.
 
 ## How to test
 
-Test everything twice. There are a lot of ways it could break.
+Test everything twice. There are a lot of ways it could break. There are a lot of ways it could. Let me know.
 
 ## External hardware
 
