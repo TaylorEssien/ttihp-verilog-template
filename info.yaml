@@ -30,18 +30,18 @@ pinout:
   ui[3]: "G"
   ui[4]: "B"
   ui[5]: "video_active"
-  ui[6]: "rst_n"
-  ui[7]: "clk"
+  ui[6]: "pix_x"
+  ui[7]: "pix_y"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "hsync"
+  uo[1]: "B0"
+  uo[2]: "G0"
+  uo[3]: "R0"
+  uo[4]: "vsync"
+  uo[5]: "B1"
+  uo[6]: "G1"
+  uo[7]: "R1"
 
   # Bidirectional pins
   uio[0]: ""
