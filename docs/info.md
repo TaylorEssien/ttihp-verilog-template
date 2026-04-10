@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Good question...
+hmmmmmmmmmmmmmmmmmmmmmm
 
 ## How to test
 
@@ -17,4 +17,4 @@ honestly not sure
 
 ## External hardware
 
-not sure...
+hmmmmmmmmmmmmmmmmmmmmmmmmmm
